@@ -1,4 +1,4 @@
-# Apex Minds Technologies - Human Capital & Employee Compensation Analysis
+# Apex Minds Technologies - Human Capital & Employee Performance Analysis
 ## 🎯 Objective
 To analyze **employee distribution and performance metrics across departments, experience, and career levels** — and **uncover insights driving salary patterns and workforce structure**.
 ### **Project Purpose:**
