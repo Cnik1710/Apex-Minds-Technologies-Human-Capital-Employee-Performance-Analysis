@@ -132,10 +132,10 @@ Understanding workforce structure and pay dynamics is crucial for Apex Minds to 
 
 ## 🖥️ Dashboard Overview
 ### Headcount & Distribution
-![image_alt]()
+![image_alt](https://github.com/Cnik1710/Apex-Minds-Technologies-Human-Capital-Employee-Performance-Analysis/blob/4b8cfdc245d84c3165b989cbedf0c7deae4686ca/04.%20Apex%20Minds%20Technologies%20-%20Human%20Capital%20%26%20Employee%20Performance%20Analysis%20(1)%20Dashboard.png)
 
 ### Salary & Performance
-![image_alt]()
+![image_alt](https://github.com/Cnik1710/Apex-Minds-Technologies-Human-Capital-Employee-Performance-Analysis/blob/4b8cfdc245d84c3165b989cbedf0c7deae4686ca/05.%20Apex%20Minds%20Technologies%20-%20Human%20Capital%20%26%20Employee%20Performance%20Analysis%20(2)%20Dashboard.png)
 
 ---
 
